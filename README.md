@@ -1,7 +1,12 @@
 # Harman/Kardon AVR Firmware
 
 ## Available
-AVR 270/370 v617
+| Model       | Release Date | Version |
+| ----------- | ------------ | ------- |
+| AVR 270/370 | 03/2014      | v617    |
+
 
 ## Missing
-AVR 270/370 v618
+| Model       | Version |
+| ----------- | ------- |
+| AVR 270/370 | v618    |
